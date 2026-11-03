@@ -1,4 +1,4 @@
-var CACHE = 'glikemija-v1';
+var CACHE = 'glikemija-v2';
 var LJUSKA = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', function (e) {
